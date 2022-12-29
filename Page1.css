@@ -1,0 +1,115 @@
+body{
+    margin: 0; 
+    /* the margin property controls the space outside an element. */
+    padding: 0;
+    /* the padding property controls the space inside an element. */
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+/* Task One */
+.one{
+    background-color: rgb(2, 44, 2);
+    color: white;
+    width: 100%;
+    margin: auto;
+    height: 750px;
+}
+
+.one img{
+    width: 40%;
+    margin-left: 60%;
+    height: 100%;
+}
+
+.one .left{
+    margin-left: 100px;
+    margin-top: -750px;
+}
+.one h1{
+    font-size: 72px;
+    margin-bottom: 20px;
+}
+
+.one h2{
+    font-size: 28px;
+    font-weight: 200;
+    margin-bottom: 30px;
+}
+
+.one p{
+    font-size: 18px;
+    font-weight: 100;
+    margin-top: 100px;
+    margin-bottom: 80px;
+}
+
+
+
+/* Task Two */
+.two{
+    background-color: rgb(177, 196, 229);
+    color: rgb(108, 7, 7);
+    width: 100%;
+    margin: auto;
+    height: 750px;
+}
+
+.two h1{
+    font-size: 52px;
+    margin-bottom: 20px;
+    margin-left: 100px;
+    max-width: 40%;
+}
+
+.two p{
+    font-size: 24px;
+    margin-top: -200px;
+    margin-left: 800px;
+    max-width: 30%;
+}
+
+.two img{
+    width: 70%;
+    height: 350px;
+    margin-top: 10px;
+    margin-left: 100px;
+    margin-bottom: 10px;
+}
+/*Task 3*/
+.three{
+    background-color: palegoldenrod  ;
+    color:midnightblue;
+    width: 100%;
+    margin:"auto";
+    height: 750px;
+}
+
+.three h1{
+    font-size: 52px;
+    text-align: center;
+}
+
+.three img{
+    width: 350px;
+    height:350px;
+    display:inline-block;
+    width:350px;
+    height:425px;
+    padding: 0 25px;
+    border-radius: 10px;
+    margin-bottom: 20px;
+}
+
+.content{
+text-align:center;
+}
+
+.content h2{
+    font-size: 24px;
+    font-weight: 800;
+    margin-bottom: 10px;
+    padding:0 90px;
+    display: inline-block;
+}
+
+
