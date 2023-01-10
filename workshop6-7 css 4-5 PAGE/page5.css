@@ -1,0 +1,27 @@
+.page5{
+    background-color: rgb(245, 150, 169);
+    width: 100%;
+    display: flex;
+    gap: 50px;
+}
+.page5 h1{
+    font-size: 50px;
+    color: rgb(126, 24, 243);
+    padding: 50px;
+}
+.page5 p{
+    font-weight: bold;
+    padding: 40px;
+    color: rgb(234, 242, 220);
+}
+.page5 img {
+    object-fit: cover;
+    width: 50%;
+    height: 100vh;
+    }
+.page5 a{
+    background-color: rgb(196, 233, 193);
+    padding: 10px;
+    margin-left: 50px;
+    border-radius: 30%;
+}
